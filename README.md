@@ -24,7 +24,7 @@ Unityで構築されたウェブカメラ画像キャプチャ・分析アプリ
 
 ### 1. リポジトリのクローン
 ```bash
-git clone https://github.com/yourusername/WebCam-Vision-Analyzer.git
+https://github.com/zabaglione/WebCam-Vision-Analyzer.git
 cd WebCam-Vision-Analyzer
 ```
 
