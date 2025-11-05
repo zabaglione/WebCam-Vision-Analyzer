@@ -8,7 +8,7 @@ public class OpenAIVisionAnalyzer : MonoBehaviour
 {
     private string apiKey;
     private const string API_ENDPOINT = "https://api.openai.com/v1/chat/completions";
-    private const string MODEL_NAME = "gpt-4o";
+    private const string MODEL_NAME = "gpt-4.1-nano";
 
     void Start()
     {
